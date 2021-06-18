@@ -174,6 +174,9 @@
     <EmbeddedResource Include="ConsultarE.resx">
       <DependentUpon>ConsultarE.h</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarEA.resx">
+      <DependentUpon>ConsultarEA.h</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ConsultarP.resx">
       <DependentUpon>ConsultarP.h</DependentUpon>
     </EmbeddedResource>
